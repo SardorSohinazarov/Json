@@ -53,12 +53,14 @@ app.MapGet("/", async context =>
         {
             jsonwriter.WriteBoolean(character.Key, character.Value);
         }
+        jsonwriter.WriteEndObject();
         
         jsonwriter.WriteStartObject("superpowers");
         foreach(var superpower in person.Superpowers)
         {
             jsonwriter.WriteString(superpower.Name, superpower.Rating.ToString());
         }
+        jsonwriter.WriteEndObject();
 
         jsonwriter.WriteEndObject();
     }
