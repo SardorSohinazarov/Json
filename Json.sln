@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Json-1", "Json-1\Json-1.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Json-2", "Json-2\Json-2.csproj", "{9BC766B6-766A-49CD-81BF-757D03ED3CD5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "json-3", "json-3\json-3.csproj", "{E7F47C03-DF08-4636-87B3-83CC46987D19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "json-4", "json-4\json-4.csproj", "{79CC5C91-9791-4DC2-9776-EB4DA110E4AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{9BC766B6-766A-49CD-81BF-757D03ED3CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BC766B6-766A-49CD-81BF-757D03ED3CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BC766B6-766A-49CD-81BF-757D03ED3CD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7F47C03-DF08-4636-87B3-83CC46987D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F47C03-DF08-4636-87B3-83CC46987D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F47C03-DF08-4636-87B3-83CC46987D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F47C03-DF08-4636-87B3-83CC46987D19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79CC5C91-9791-4DC2-9776-EB4DA110E4AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79CC5C91-9791-4DC2-9776-EB4DA110E4AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79CC5C91-9791-4DC2-9776-EB4DA110E4AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79CC5C91-9791-4DC2-9776-EB4DA110E4AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
